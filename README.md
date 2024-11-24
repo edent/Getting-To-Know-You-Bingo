@@ -24,6 +24,10 @@ This was built for [BarCamp London XIII](https://thirteen.barcamplondon.org/) an
 * Paper is set to A4 size.
    * If your country has not standardised on ISO 216, please move.
 
+## Sample
+
+<img src="https://raw.githubusercontent.com/edent/Getting-To-Know-You-Bingo/refs/heads/main/sample.png" alt="Sample Cards">
+
 ## Support
 
 [![No Maintenance Intended](https://unmaintained.tech/badge.svg)](https://unmaintained.tech/)
